@@ -24,7 +24,7 @@ I am a **Data Analyst** and **Master's Student** at ASU. I combine technical pre
 
 <br/>
 
-🔭 <b>Currently working on:</b> Retail Strategy & Analytics in R
+🔭 <b>Currently working on:</b> [Retail Strategy & Analytics in R](https://github.com/zjrball/Retail-Analytics-Quantium)
 <br/>
 🌱 <b>Currently learning:</b> Advanced R & Statistical Modeling
 <br/>
