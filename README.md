@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/34e82bb0-0f5e-4651-82a4-6ebff68b6d01" />     
+
+<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/653f13d6-ed19-4e73-8edc-3259ebce5743" />
 <hr>
 
 <samp>
