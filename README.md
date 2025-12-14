@@ -1,6 +1,8 @@
 <div align="center">
 
-<img width="1584" height="396" alt="banner" src="https://github.com/user-attachments/assets/01104941-17fe-4ec4-90fd-c1f6afd4ab98" />
+<img width="1584" height="396" alt="Blue Yellow Fun Retro Content Creator LinkedIn Banner" src="https://github.com/user-attachments/assets/0d5ee4d4-fd49-4ea7-a1cc-534c5f3c43fb" />
+
+
 <br/>
 
 <a href="https://www.linkedin.com/in/zacharyjball">
